@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Leetcode Stats](https://leetcode.com/edmundtlz/)
+![Leetcode Stats](https://leetcard.jacoblin.cool/edmundtlz?theme=dark&font=Share%20Tech)
 
 
 <!--
